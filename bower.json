@@ -1,0 +1,8 @@
+{
+  "name": "my-web-app",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
